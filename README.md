@@ -2,8 +2,9 @@
 
 ## Overview
 
-This directory contains a curated collection of PDFs designed to train language models (LLMs) in discussing cyber threats and threat landscapes effectively. The purpose is to collect the biggest repository of 
+This directory contains a curated collection of PDFs designed to train language models (LLMs) in discussing cyber threats and threat landscapes effectively. The purpose is to establish the biggest archive of historical threat landscapes. The reality is that most companies publish these documents as part of marketing efforts, whenever changes happen; links break. This archive is meant to prevent to prevent these documents from becoming unavailable.
 
+![2024 - cyber threat cartographers](https://github.com/gertjanbruggink/threat-landscape-training-corpus/assets/50614049/d6ccd1fa-4035-4c69-89e9-08d09491145f)
 
 ## Contents
 
