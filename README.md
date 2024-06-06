@@ -27,6 +27,8 @@ How to Use
 ## Timeline
 
 Current timeline: 
+- 2019: Processing
 - 2021: Completed
-- 2022: Not started
+- 2022: Completed
 - 2023: Processing
+- 2024: Ongoing
